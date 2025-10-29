@@ -1,5 +1,5 @@
 ## Documentation:
-1. added langchain-chroma to requirements.txt
+1. Added langchain-chroma to requirements.txt
 2. Used langgraph_chroma_retreiver.ipynb for coding reference
 
 ## External Tools Used:
