@@ -29,7 +29,7 @@ Welcome to my INFO 5940 Assignment 1 codespace for RAG Document Chat. Please see
 
 ### Getting Started 
 ## Step 1: Set up API Key and run streamlit:
-To run the Streamlit app and set up the key at the same time, run the commands below in terminal:
+To run the Streamlit app and set up the key at the same time, replace with your actual API key and run the commands below in terminal:
    ```bash
    API_KEY="your_actual_API_KEY" streamlit run chat_with_pdf.py
    ```
